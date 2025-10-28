@@ -1,0 +1,3 @@
+Todos os homens sao mortais.
+Socrates e um homem.
+Logo, Socrates e mortal.
