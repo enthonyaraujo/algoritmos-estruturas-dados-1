@@ -11,5 +11,5 @@ A organizacao é feita pelos seguintes métodos:
 Um exemplo usando o array = {5,3,2,4}
 
 <p align="center">
-<img src="gnomesort-example.png" alt="Gnome Sort" width="400" />
+<img src="example-gnomesort.png" alt="Gnome Sort" width="400" />
 </p>
