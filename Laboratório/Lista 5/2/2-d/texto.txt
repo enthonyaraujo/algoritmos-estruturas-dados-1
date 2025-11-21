@@ -1,0 +1,10 @@
+Este trabalho analisa a aplicação da Transformada Z na resolução de circuitos elétricos discretos,
+com foco em ladder networks. A Transformada Z permite converter equações de diferenças
+em expressões algébricas, facilitando a modelagem e a previsão do comportamento dinâmico
+dos circuitos. Foram utilizadas as Leis de Kirchhoff e a Lei de Ohm para formular as equações
+dos circuitos, resolvidas no domínio da Transformada Z. A metodologia incluiu simulações
+computacionais no software Multisim e a implementação de um programa em Python para
+automatizar os cálculos. Os resultados mostraram forte correlação entre os valores teóricos
+e simulados, validando a eficácia do método. Os resultados ressaltam a aplicabilidade da
+Transformada Z na análise de circuitos elétricos e destacam sua utilidade na otimização de
+processos de modelagem matemática.
